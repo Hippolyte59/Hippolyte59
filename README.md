@@ -1,35 +1,17 @@
-<p align="center">
-  <img src="https://tenor.com/kPdW5DbEHBg.gif" alt="Bannière Hippolyte59" width="100%">
-  
+
 # 👋 Salut, je suis Hippolyte
 
 **Développeur full‑stack | Web |
 Open‑Source**  
   
-"Le savoir est une arme"
 
 ---
-
-![GitHub followers](https://img.shields.io/github/followers/Hippolyte59?style=social)
-![Repos](https://img.shields.io/badge/Repos-#OPEN-blue)
-![Top Langs](https://img.shields.io/github/languages/top/Hippolyte59?color=informational)
-![Last Commit](https://img.shields.io/github/last-commit/Hippolyte59/app-portfolio?color=success)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-## 🔭 Ce sur quoi je travaille
-- Développement d'une plateforme full‑stack (React + FastAPI) avec CI/CD et tests automatisés.  
-- Mise en place d’architectures microservices avec monitoring complet (Prometheus / Grafana).  
-- Contributions open‑source : documentation, PRs et automatisation de workflows.  
+![GitHub Followers](https://img.shields.io/github/followers/Hippolyte59?style=flat)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![OVH](https://img.shields.io/badge/OVH-%23123F6D?style=flat&logo=OVH&logoColor=blue)
+![Proxmox](https://img.shields.io/badge/Proxmox-proxmox?style=flat&logo=Proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
