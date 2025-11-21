@@ -53,12 +53,15 @@
 
 ## 🚀 Projets phares
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="GIF projets" width="400"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" 
+       alt="Bannière animée computer" 
+       width="1000" 
+       height="250"/>
 </p>
 
-- **[app-portfolio](https://github.com/Hippolyte59/app-portfolio)** — Portfolio React + FastAPI · Docker · JWT Auth  
-- **[data-dashboard](https://github.com/Hippolyte59/data-dashboard)** — Dashboard temps réel · Graphs · Filtrage interactif  
-- **[automation-bot](https://github.com/Hippolyte59/automation-bot)** — Scripts Python ETL · Scraping · Tests automatisés  
+
+- **[Site-web](https://github.com/Hippolyte59/web)** 
+- **[Bot-Discord](https://github.com/Hippolyte59/jonh)** 
 
 ---
 
@@ -71,4 +74,4 @@
 ---
 
 ## 🌐 Contact
-✉️ [hippolyte@example.com](mailto:hippolyte@example.com) | 🌐 [hippolyte.dev](https://hippolyte.dev) | 💼 [LinkedIn](https://www.linkedin.com/in/hippolyte) | 🐦 [Twitter](https://twitter.com/hippolyte_dev)
+✉️ [hippolyte@zorcraft.ovh](mailto:hippolyte@zorcraft.ovh) | 🌐 [zorcraft.ovh](https://zorcraft.ovh) | 💼 [Discord](https://discord.gg/V2V6BNk7KR) |
