@@ -96,18 +96,21 @@
 
 ## 📊 Activité GitHub
 
-### 🔥 Statistiques
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true" />
+</p>
 
-### ⚡ Série de contributions
-![GitHub Streak](https://streak-stats.demolab.com?user=Hippolyte59&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hippolyte59" />
+</p>
 
-### 💻 Langages les plus utilisés
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact" />
+</p>
 
-### 🏆 Trophées
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Hippolyte59&margin-w=5)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hippolyte59" />
+</p>
 
 ---
 
