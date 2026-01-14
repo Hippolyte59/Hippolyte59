@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/nfxSwP9d3ZgAAAAd/nichijou-anime.gif"
        width="1000"
-       height="250"/>
+       height="550"/>
 </p>
 
 ---
