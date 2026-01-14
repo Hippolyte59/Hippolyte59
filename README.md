@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/VMg50i4MnoAAAAAd/book-sparkles.gif"
        alt="Banner"
        width="1000"
-       height="250"/>
+       height="550"/>
 </p>
 
 <h1 align="center">👋 Salut, moi c’est Hippolyte</h1>
