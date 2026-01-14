@@ -97,23 +97,19 @@
 ## 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hippolyte59&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Hippolyte59" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/1f1f1f/Hippolyte59" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hippolyte59&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hippolyte59" />
 </p>
 
 
