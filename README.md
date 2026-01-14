@@ -12,9 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Hippolyte59?style=flat">
-  <img src="https://komarev.com/ghpvc/?username=Hippolyte59&label=Visiteurs&color=blue&style=flat">
+  <img src="https://img.shields.io/github/followers/Hippolyte59?label=Followers&style=for-the-badge" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=Hippolyte59&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
@@ -31,11 +32,12 @@
 ## 🧠 Vision & Philosophie
 
 <p align="center">
-  <em>
+  <strong><em>
     💀🔫 Le savoir est une arme.<br>
     La vraie puissance n’est pas dans la force brute, mais dans la maîtrise de l’esprit 🧠🔥
-  </em>
+  </em></strong>
 </p>
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/nfxSwP9d3ZgAAAAd/nichijou-anime.gif"
@@ -83,41 +85,37 @@
 ## 🚀 Projets Mis en Avant
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/developer.gif"
        width="1000"
-       height="250"/>
+       height="250"
+       alt="Developer animation"/>
 </p>
 
-<p align="center">
-  🌐 <strong><a href="https://github.com/Hippolyte59/web">Site Web</a></strong><br>
-  Application full-stack moderne<br><br>
-  🤖 <strong><a href="https://github.com/Hippolyte59/jonh">Bot Discord</a></strong><br>
-  Bot avancé en Node.js & Discord.js
-</p>
 
 ---
 
 ## 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true&count_private=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hippolyte59&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Hippolyte59&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Hippolyte59" />
+  <img src="https://ghchart.rshah.org/0d1117/Hippolyte59" alt="GitHub Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hippolyte59&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hippolyte59&theme=darkhub&no-frame=true&row=1&column=7"/>
 </p>
+
 
 
 ---
@@ -125,7 +123,7 @@
 ## ❤️ Centres d’intérêt
 
 <p align="center">
-  🌐 Web moderne • 🔐 Sécurité • 🧠 Apprentissage continu • 🚀 Open-Source
+  🌐 Web • 🔐 Sécurité • 🧠 Apprentissage continu • 🚀 Open-Source
 </p>
 
 ---
