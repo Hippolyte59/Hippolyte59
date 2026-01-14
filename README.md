@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Hippolyte59?label=Followers&style=for-the-badge" alt="GitHub followers">
-  <img src="https://komarev.com/ghpvc/?username=Hippolyte59&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/Hippolyte59?label=Followers&color=181717&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Hippolyte59&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 
@@ -96,21 +96,17 @@
 
 ## 📊 Activité GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true" />
-</p>
+### 🔥 Statistiques
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true&hide_title=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hippolyte59" />
-</p>
+### ⚡ Série de contributions
+![GitHub Streak](https://streak-stats.demolab.com?user=Hippolyte59&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact" />
-</p>
+### 💻 Langages les plus utilisés
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hippolyte59" />
-</p>
+### 🏆 Trophées
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Hippolyte59&margin-w=5)
 
 
 ---
