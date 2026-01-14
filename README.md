@@ -87,7 +87,7 @@
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/developer.gif"
        width="1000"
-       height="250"
+       height="550"
        alt="Developer animation"/>
 </p>
 
@@ -97,23 +97,23 @@
 ## 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hippolyte59&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Hippolyte59&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0d1117/Hippolyte59" alt="GitHub Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/1f1f1f/Hippolyte59" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hippolyte59&theme=darkhub&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hippolyte59&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 
