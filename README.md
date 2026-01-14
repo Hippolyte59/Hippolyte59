@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Hippolyte59?label=Followers&color=181717&style=for-the-badge&logo=github" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=Hippolyte59&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hippolyte59&label=Profile%20Views&color=181717&style=for-the-badge" alt="Profile views" />
 </p>
 
 
