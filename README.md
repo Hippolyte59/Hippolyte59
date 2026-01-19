@@ -130,7 +130,7 @@
 ## ❤️ Centres d’intérêt
 
 <p align="center">
-  🌐 Web • 🔐 Sécurité • 🧠 Apprentissage continu • 🚀 Open-Source
+  🌐 Web • 🔐 Sécurité • 🧠 Apprentissage • 🚀 Open-Source
 </p>
 
 ---
