@@ -10,6 +10,14 @@
 <p align="center">
   <strong>Développeur Full-Stack • Web • Open-Source</strong><br>
 </p>
+<p align="center" style="background-color:#000000;padding:10px;border-radius:8px;">
+  <a href="https://wakatime.com/@af6ff179-b9a5-42f6-953c-e825c9dab0bf">
+    <img
+      src="https://wakatime.com/badge/user/af6ff179-b9a5-42f6-953c-e825c9dab0bf.svg"
+      alt="Total time coded since Jan 24 2026"
+    />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Hippolyte59?label=Followers&color=181717&style=for-the-badge&logo=github" alt="GitHub followers" />
@@ -117,12 +125,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Hippolyte59&theme=darkhub&no-frame=true&margin-w=15"
-    alt="GitHub Trophies"
-  />
-</p>
 
 
 ---
